@@ -1,0 +1,273 @@
+h1{
+  font-family: 'georgia';
+  font-weight: bold;
+  font-style: initial;
+  font-size: 40px;
+}
+
+p{
+  font-family: 'georgia';
+  font-size: 16px;
+}
+
+header{
+  margin-bottom:5;
+}
+.allButtons {
+  background-color: white;
+  color: black;
+  border: 2px solid black;
+  border-radius: 5px;
+  text-transform: uppercase;
+  font-family:'georgia'
+
+}
+
+.collections {
+  background-color: white;
+}    
+
+.partner{
+  background-color: silver;
+  
+} 
+.certaindiv {
+  padding-right:200px;
+  padding-left:200px;  
+}
+
+#fontPartner{
+  font-family: 'Segoe UI';
+}
+
+h4{
+  font-family:'georgia' ;
+  font-weight:bold;
+}
+
+.partnerButton {
+  background-color: black;
+  color: white;
+  border: 2px solid black;
+  border-radius: 5px;
+  text-transform: uppercase;
+  font-family:'georgia';
+}
+
+.increase{
+  font-size: 18px;
+}
+
+a { 
+  color: inherit; 
+}
+
+.ourStory{
+  font-size: 20px;
+}
+.AboutSection  {
+  font-size: 20px;
+}
+
+.grayRows {
+  background-color: lightgray;
+  color: white;
+}
+
+
+.changeFont{
+  font-family: Georgia;
+}
+
+  body, html {
+  height: 100%;
+}
+
+.testimonial{
+  text-align: center;
+}
+
+.centerTitle{
+  text-align: center;
+}
+
+.shopButtons {
+  background-color: white;
+  color: black;
+  border: 2px solid black;
+  border-radius: 5px;
+  font-family:'georgia';
+  text-transform: uppercase;
+
+}
+
+.learn{
+  background-color: black;
+  color: white;
+  border: 2px solid black;
+  border-radius: 5px;
+  text-transform: uppercase;
+  font-family:'georgia'
+
+}
+.btn-primary-outline {
+  background-color: transparent;
+  border-color: transparent;
+  box-shadow: none;
+}
+
+
+.blackRows {
+  background-color:black;
+  color: white;
+}
+.changeFont{
+  font-family: Georgia;
+
+}
+
+.carouselcontrol {
+  background-image: none !important;
+} 
+
+.centerTitle{
+  text-align: center;
+  
+}
+
+.centerslide {
+  align-self: center;
+}
+.contact{
+  background-color:silver;
+  padding-right:200px;
+  padding-left:200px;     
+
+}
+.submit{
+  background-color: black;
+  color:white;
+}
+
+.half{
+  width: 700px;
+  margin: auto;
+
+}
+
+#blackteaModal .modal-header {
+  background-color:green;
+  color: white; 
+  
+}
+#greenteaModal .modal-header {
+  background-color:green;
+  color: white; 
+  
+}
+#oolongteaModal .modal-header {
+  background-color: green;
+  color: white; 
+  
+}
+
+#puerhteaModal .modal-header {
+  background-color: green;
+  color: white; 
+  
+}
+
+.imageContact{
+  width: 100%;
+  margin: 0px;
+
+}
+
+.changeFooter{
+  margin:0px;
+  padding:0px;
+  min-width:100%;
+  max-width:100%;
+  height:auto;
+}
+
+.contactButtons {
+  
+  font-family:'georgia';
+  margin:0;
+
+
+}
+
+.navbackgound{
+  background-color: black;
+}
+
+.grayExcept{
+  background-color: lightgrey;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.contactUsButton {
+  background-color: black;
+  color: white;
+  border: 2px solid black;
+  border-radius: 5px;
+  font-family:'georgia';
+}
+/* The navigation bar */
+.navbar {
+  overflow: hidden;
+  background-color: black;
+  position: fixed; /* Set the navbar to fixed position */
+  /* Position the navbar at the top of the page */
+  width: 100%; /* Full width */
+}
+
+/* Links inside the navbar */
+.navbar a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+
+  text-decoration: none;
+}
+
+/* Change background on mouse-over */
+.navbar a:hover {
+  background: #ddd;
+  color: black;
+}
+
+
+.jumbotronHome{
+  background-color: white;
+}
+.jumbotronshop{
+  background-color: green;
+}
+#shoppingCart {
+  background-color: black;
+  color: white;
+  border: 2px solid black;
+  border-radius: 5px;
+  font-family:'georgia';
+}
+.nav{
+  margin-bottom:0;
+  border:none;
+}
+.jumbotron {
+ height:100%;
+ margin-bottom:0;
+ background-color: white;
+ 
+ 
+}
+
+.corners {
+  border-radius: 10px;
+
+ 
+}
