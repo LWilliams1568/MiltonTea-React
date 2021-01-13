@@ -41,9 +41,6 @@ export function Header () {
                             <a className="nav-link" href="#goContactus">Contact Us</a>
                         </li>
 
-                        <li className="nav-item">
-                            <a className="nav-link" href="shopteas.html">Shop</a>
-                        </li>
                         </ul>
                     </nav>
                 </header>

@@ -31,7 +31,7 @@ export function Collections(){
                         </figure>
 
                         <button className="shopButtons btn-xs">
-                        <a href="shopteas.html">Shop Black Teas</a>
+                        <a href="contactus.html">Shop Black Teas</a>
                         </button>
                         <br />
                     </div>
@@ -52,7 +52,7 @@ export function Collections(){
                             </figcaption>
                         </figure>
                         <button className="shopButtons btn-xs">
-                            <a href="shopteas.html">Shop Green Teas</a>
+                            <a href="contactus.html">Shop Green Teas</a>
                         </button>
                     </div>
 
@@ -72,7 +72,7 @@ export function Collections(){
                             </figcaption>
                         </figure>
                         <button className="shopButtons btn-xs">
-                            <a href="shopteas.html">Shop Oolong Teas</a>
+                            <a href="contactus.html">Shop Oolong Teas</a>
                         </button>
                     </div>
 
@@ -92,7 +92,7 @@ export function Collections(){
                             </figcaption>
                         </figure>
                         <button className="shopButtons btn-xs">
-                            <a href="shopteas.html">Shop Puerh Teas</a>
+                            <a href="contac.html">Shop Puerh Teas</a>
                         </button>
                         <br />
                         <br />
