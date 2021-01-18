@@ -19,7 +19,7 @@ export function Partner(){
 
                     <div class="col-12">
                         <button class="partnerButton nav-link btn-lg">
-                            <a href="contactus.html">CONTACT US</a>
+                            <a href="#goContactus">CONTACT US</a>
                         </button>
                         <br />
                         <br />

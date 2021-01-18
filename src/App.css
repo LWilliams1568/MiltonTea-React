@@ -259,9 +259,10 @@ a {
   border:none;
 }
 .jumbotron {
- height:100%;
+ margin-top:0;
  margin-bottom:0;
  background-color: white;
+ height: 100%;
  
  
 }

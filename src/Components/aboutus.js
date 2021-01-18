@@ -13,8 +13,7 @@ export function About(){
                         <h1>Our Story</h1>
                         <br />
                         <p className="ourStory">
-                            Our story begins in 2006 when Lashon and Abdur, two talented and
-                            enthusiastic entrepreneurs, decided to establish a tea manufacturing
+                            Our story begins in 2006 when Robert Milton decided to establish a tea manufacturing
                             company after a few decades of working in the tea industry. Now
                             Milton Tea has grown into a well-known tea company supplying the
                             highest quality teas all over the world.
@@ -22,7 +21,7 @@ export function About(){
                       
                         <br />
                         <button className="partnerButton nav-link btn-lg">
-                            <a href="contactus.html">FOLLOW US ON INSTAGRAM</a>
+                            <a href="https://www.instagram.com/">FOLLOW US ON INSTAGRAM</a>
                         </button>
                         <br />
                         <br />

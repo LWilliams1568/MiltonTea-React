@@ -12,9 +12,9 @@ export function Footer(){
                             <ul className="list-unstyled">
                             <li><a href="#">Home</a></li>
                             <li><a href="#goCollections">Collections</a></li>
-                            <li><a href="goOurstory">About Us</a></li>
-                            <li><a href="#goContactUs">Contact Us</a></li>
-                            <li><a href="shopteas.html">Shop</a></li>
+                            <li><a href="#goAbout">About Us</a></li>
+                            <li><a href="#goContactus">Contact Us</a></li>
+                           
                             </ul>
                         </div>
 

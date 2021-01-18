@@ -18,20 +18,10 @@ export function Collections(){
                         <br />
                         <figure>
                             <img src="images/blacktea.jpg" className="img-fluid" alt="picture of black tea"/>
-                            <figcaption>
-                            <button
-                            type="button"
-                            className="btn btn-xs btn-primary-outline"
-                            data-toggle="modal"
-                            data-target="#blackteaModal"
-                            >
-                            Learn More
-                            </button>
-                            </figcaption>
                         </figure>
 
                         <button className="shopButtons btn-xs">
-                        <a href="contactus.html">Shop Black Teas</a>
+                        <a  href="https://www.amazon.com/">Shop Black Teas</a>
                         </button>
                         <br />
                     </div>
@@ -40,19 +30,9 @@ export function Collections(){
                     <br />
                         <figure>
                             <img src="images/TeaGreenPot.jpg" className="img-fluid" />
-                            <figcaption>
-                            <button
-                                type="button"
-                                className="btn btn-primary-outline btn-xs"
-                                data-toggle="modal"
-                                data-target="#greenteaModal"
-                            >
-                                Learn More
-                            </button>
-                            </figcaption>
                         </figure>
                         <button className="shopButtons btn-xs">
-                            <a href="contactus.html">Shop Green Teas</a>
+                            <a  href="https://www.amazon.com/">Shop Green Teas</a>
                         </button>
                     </div>
 
@@ -60,19 +40,10 @@ export function Collections(){
                     <br />
                         <figure>
                             <img src="images/oolong.jpg" className="img-fluid" />
-                            <figcaption>
-                            <button
-                                type="button"
-                                className="btn btn-xs btn-primary-outline"
-                                data-toggle="modal"
-                                data-target="#oolongteaModal"
-                            >
-                                Learn More
-                            </button>
-                            </figcaption>
+                         
                         </figure>
                         <button className="shopButtons btn-xs">
-                            <a href="contactus.html">Shop Oolong Teas</a>
+                            <a  href="https://www.amazon.com/">Shop Oolong Teas</a>
                         </button>
                     </div>
 
@@ -80,19 +51,10 @@ export function Collections(){
                     <br />
                         <figure>
                             <img src="images/pu-erh.jpg" className="img-fluid" />
-                            <figcaption>
-                            <button
-                                type="button"
-                                className="btn btn-xs btn-primary-outline"
-                                data-toggle="modal"
-                                data-target="#puerhteaModal"
-                            >
-                                Learn More
-                            </button>
-                            </figcaption>
+                           
                         </figure>
                         <button className="shopButtons btn-xs">
-                            <a href="contac.html">Shop Puerh Teas</a>
+                            <a  href="https://www.amazon.com/">Shop Puerh Teas</a>
                         </button>
                         <br />
                         <br />
